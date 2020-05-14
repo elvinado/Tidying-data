@@ -1,5 +1,4 @@
-# Tidying-data
-[Blog post](https://elvinado.github.io/notebooks/Tidying-data.html)
+# [Tidying-data](https://elvinado.github.io/notebooks/Tidying-data.html)
 
 Tidying excel file using Pandas
 
