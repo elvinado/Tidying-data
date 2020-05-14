@@ -1,5 +1,7 @@
 # Tidying-data
- Tidying excel file using Pandas
+[Blog post](https://elvinado.github.io/notebooks/Tidying-data.html)
+
+Tidying excel file using Pandas
 
 ## Skills you will learn from this example may be as follow:
 1. Loading excel files to pandas dataframe
